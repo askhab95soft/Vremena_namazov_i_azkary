@@ -11,28 +11,7 @@
 
 ## Установка
 
-1. Клонируйте репозиторий: git clone https://github.com/askhab95soft/Vremena_namazov_i_azkary.git
-
-cd Vremena_namazov_i_azkary
-
-
-2. Создайте и активируйте виртуальное окружение (рекомендуется):
-python -m venv venv
-source venv/bin/activate       # Linux/macOS
-venv\Scripts\activate          # Windows
-
-
-3. Установите зависимости:
-pip install -r requirements.txt
-
-
-4. В файле `bot.py` пропишите токен вашего Telegram-бота:
-TOKEN = “ВАШ_ТОКЕН_ТЕЛЕГРАМ_БОТА”
-
-
-5. Запустите бота:
-python main.py
-
+python install_and_run.py
 
 ## Использование
 
