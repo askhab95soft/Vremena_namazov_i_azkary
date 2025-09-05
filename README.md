@@ -10,8 +10,9 @@
 - Хранение данных пользователей и расписания в SQLite.
 
 ## Установка
-
-python install_and_run.py
+1. git clone https://github.com/askhab95soft/Vremena_namazov_i_azkary.git
+2. cd Vremena_namazov_i_azkary
+3. python install_and_run.py
 
 ## Использование
 
